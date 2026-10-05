@@ -3,6 +3,7 @@ class Program
     static void Main(string[] args)
     {   
         string word = "";
+        Console.WriteLine("Hi enter number here ");
         int x = int.Parse(Console.ReadLine());
         
         if (x == 1) { word = "Odd"; }
