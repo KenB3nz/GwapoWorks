@@ -107,5 +107,6 @@ class Program
         if (x == 99) { word = "Odd"; }
         if (x == 100) { word = "Even"; }
         Console.WriteLine(word);
+	Console.WriteLine("baidiango was here");
     }
 }
